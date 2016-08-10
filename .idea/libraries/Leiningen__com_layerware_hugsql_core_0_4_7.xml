@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.layerware/hugsql-core:0.4.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/layerware/hugsql-core/0.4.7/hugsql-core-0.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
